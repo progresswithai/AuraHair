@@ -1,0 +1,11 @@
+# Exclude HTTrack junk from Vercel deployment
+hts-cache/
+cdnjs.cloudflare.com/
+fd.cleantalk.org/
+hts-log.txt
+cookies.txt
+backblue.gif
+fade.gif
+
+# Exclude the HTTrack redirect index (this was causing /aurahairstudio.ca/index.html URL)
+index.html
